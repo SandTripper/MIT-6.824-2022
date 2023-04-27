@@ -1,5 +1,13 @@
-## MIT6.824 2022 Lab1
+## MIT6.824 2022 Lab2
 
-测试结果
+* [x] 2A
+* [ ] 2B
+* [ ] 2C
+* [ ] 2D
 
-![](READMERESOURCE/lab1-test.png)
+
+######测试结果
+
+* 2A
+  
+![](READMERESOURCE/lab2a-test.png)
