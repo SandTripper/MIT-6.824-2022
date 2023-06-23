@@ -2,7 +2,7 @@
 
 * [x] 2A
 * [x] 2B
-* [ ] 2C
+* [x] 2C
 * [ ] 2D
 
 
@@ -15,3 +15,7 @@
 * 2B
 
 ![](READMERESOURCE/lab2b-test.png)
+
+* 2C
+
+![](READMERESOURCE/lab2c-test.png)
