@@ -1,1 +1,1 @@
-for i in {0..500}; do go test -run 2C; done
+for i in {0..30}; do go test; done
